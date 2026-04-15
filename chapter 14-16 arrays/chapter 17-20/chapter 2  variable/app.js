@@ -2,7 +2,7 @@
 var userName;
 
 //  2.decalaration of variable with assigning name
-var myName = "Bushra Bhutto";
+var myName = "Bushra ";
 
 // 3. Write script to a b c part
 var message;
@@ -10,7 +10,7 @@ message = "Hello World";
 alert(message);
 
 // 4. Write a script to save student’s bio data in JS variables and show the data in alert boxes.
-var stdName = "Bushra Bhutto";
+var stdName = "Bushra ";
 var stdAge = "22 year old!";
 var certification = " Certified website Development";
 alert(stdName);
